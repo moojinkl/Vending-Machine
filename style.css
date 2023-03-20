@@ -355,3 +355,7 @@ body {
 .btn-item:disabled {
   border: none;
 }
+
+.btn-item:focus {
+  border: 3px solid #6327fe;
+}
